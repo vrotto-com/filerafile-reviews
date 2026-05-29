@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Fetch reviews from Google Places API
         env:
@@ -17,9 +19,13 @@ jobs:
         run: |
           curl -s "https://places.googleapis.com/v1/places/ChIJkbvtEFE2wxQRvmgDeXOqCu0?fields=reviews,rating,userRatingCount&key=$API_KEY&languageCode=tr" > reviews.json
 
-     - name: Commit and push
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git fetch origin main
+          git reset --hard origin/main
+          curl -s "https://places.googleapis.com/v1/places/ChIJkbvtEFE2wxQRvmgDeXOqCu0?fields=reviews,rating,userRatingCount&key=${{ secrets.GOOGLE_PLACES_API_KEY }}&languageCode=tr" > reviews.json
           git add reviews.json
-          git diff --staged --quiet || (git commit -m "Update reviews" && git push --force)
+          git diff --staged --quiet || git commit -m "Update reviews"
+          git push

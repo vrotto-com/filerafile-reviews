@@ -15,13 +15,13 @@ jobs:
         env:
           API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: |
-          curl -s "https://places.googleapis.com/v1/places/ChIJkbvtEFE2wxQRvmgDeXOqCu0?fields=reviews,rating,userRatingCount&key=$API_KEY&languageCode=tr" \
-          > reviews.json
+          curl -s "https://places.googleapis.com/v1/places/ChIJkbvtEFE2wxQRvmgDeXOqCu0?fields=reviews,rating,userRatingCount&key=$API_KEY&languageCode=tr" > reviews.json
 
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git pull --rebase
           git add reviews.json
           git diff --staged --quiet || git commit -m "Update reviews"
           git push

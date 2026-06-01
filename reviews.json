@@ -3,27 +3,6 @@
   "userRatingCount": 15,
   "reviews": [
     {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVd2NuRnNjVmxqVDJKMFJXUm5iM05IZGpVdFRYYxAB",
-      "relativePublishTimeDescription": "bir hafta önce",
-      "rating": 5,
-      "text": {
-        "text": "“Filera File’den alışveriş yaptım ve gerçekten çok memnun kaldım. Süreç boyunca çok ilgili, nazik ve yardımcı davrandılar. Aklımdaki tüm soruları sabırla cevapladılar ve her konuda destek oldular. Hem ürün hem iletişim açısından gönül rahatlığıyla tavsiye edebileceğim bir firma. İlginiz ve emeğiniz için çok teşekkür ederim 🌸” Ayrıca malzemesi çok kaliteli ve sağlam",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "“Filera File’den alışveriş yaptım ve gerçekten çok memnun kaldım. Süreç boyunca çok ilgili, nazik ve yardımcı davrandılar. Aklımdaki tüm soruları sabırla cevapladılar ve her konuda destek oldular. Hem ürün hem iletişim açısından gönül rahatlığıyla tavsiye edebileceğim bir firma. İlginiz ve emeğiniz için çok teşekkür ederim 🌸” Ayrıca malzemesi çok kaliteli ve sağlam",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "gülser ilkan",
-        "uri": "https://www.google.com/maps/contrib/114120397104151049386/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQ-4ZrZ48SkNxB8TMDzL2B7R_HsGZ5WTZUtSKJJEVZUEe8Aznw=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-05-18T09:03:00.669395579Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVd2NuRnNjVmxqVDJKMFJXUm5iM05IZGpVdFRYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVd2NuRnNjVmxqVDJKMFJXUm5iM05IZGpVdFRYYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaa1pqaG1PVmxNYWxOZmFHSkJlWFJEYzBzMU9HYxAB",
       "relativePublishTimeDescription": "2 hafta önce",
       "rating": 5,
@@ -106,6 +85,27 @@
       "publishTime": "2026-05-04T18:24:41.361030412Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twRWJFVnZSRGxIWTJsRlJuQTRla2t3YWpCUFJIYxAB&d=17924085&t=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twRWJFVnZSRGxIWTJsRlJuQTRla2t3YWpCUFJIYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
+    {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GUFRXSnFNRnBCTUZKcGFXVklWa3BDUmxnMGQwRRAB",
+      "relativePublishTimeDescription": "bir ay önce",
+      "rating": 5,
+      "text": {
+        "text": "Özellikle müşteri temsilcisi arkadaşın ilgisi ve alakasindan çok memnun kaldım her şey için teşekkür ediyorum.",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "Özellikle müşteri temsilcisi arkadaşın ilgisi ve alakasindan çok memnun kaldım her şey için teşekkür ediyorum.",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "Mehmet Sönmez",
+        "uri": "https://www.google.com/maps/contrib/103573901045011513676/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHShRcbEWnAvKDxIwPM_GghFc7vRAKbZPxPfHiQfTQnUTkyUdsUQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-04-29T10:01:27.381792799Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GUFRXSnFNRnBCTUZKcGFXVklWa3BDUmxnMGQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GUFRXSnFNRnBCTUZKcGFXVklWa3BDUmxnMGQwRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     }
   ]
 }

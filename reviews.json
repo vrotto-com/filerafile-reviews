@@ -1,7 +1,49 @@
 {
   "rating": 5,
-  "userRatingCount": 23,
+  "userRatingCount": 24,
   "reviews": [
+    {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFeGVGQmFOMGd5VW5CcWVDMWxSMUkwZHpaRWFFRRAB",
+      "relativePublishTimeDescription": "bir hafta önce",
+      "rating": 5,
+      "text": {
+        "text": "On numara iş ve ürün herkeze tavsiye ederim",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "On numara iş ve ürün herkeze tavsiye ederim",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "Burhan Aday",
+        "uri": "https://www.google.com/maps/contrib/105544881431832917946/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWndeV7kmgltmh8C6LTkveeJfcS7De9a6RoVNi5CSUA0ktB-how=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-06-02T14:32:03.428288093Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFeGVGQmFOMGd5VW5CcWVDMWxSMUkwZHpaRWFFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFeGVGQmFOMGd5VW5CcWVDMWxSMUkwZHpaRWFFRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
+    {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25adVdFOW5WSGx6WlVremJqZGhjVzVNYkZneWRVRRAB",
+      "relativePublishTimeDescription": "bir ay önce",
+      "rating": 5,
+      "text": {
+        "text": "İşlerini layıkı ile yapan, dürüst firma. Ürünleri web sitesinden sipariş vermeme rağmen her aşama da arayıp ilgilenen firma. Ürünü teslim aldıktan sonra bile memnun musunuz, bir sıkıntı varmı diye soran ürününün ve hizmetinin arkasında duran firma. Ürün kalitesi ve işçiliğe gelirsek 10/10. İşçilik ve dikiş kalitesi süper. Fiyatlar ise piyasanın çok altında. Hiç düşünmeden alış veriş yapabilirsiniz.",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "İşlerini layıkı ile yapan, dürüst firma. Ürünleri web sitesinden sipariş vermeme rağmen her aşama da arayıp ilgilenen firma. Ürünü teslim aldıktan sonra bile memnun musunuz, bir sıkıntı varmı diye soran ürününün ve hizmetinin arkasında duran firma. Ürün kalitesi ve işçiliğe gelirsek 10/10. İşçilik ve dikiş kalitesi süper. Fiyatlar ise piyasanın çok altında. Hiç düşünmeden alış veriş yapabilirsiniz.",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "Mehmet KOCA",
+        "uri": "https://www.google.com/maps/contrib/104086722405379908974/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU019-uDHSHNsw8vvVcJ3Ak9CQptGwGyora5uzDGHk7sMzcJZSreA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-04-29T16:03:04.977916962Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25adVdFOW5WSGx6WlVremJqZGhjVzVNYkZneWRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25adVdFOW5WSGx6WlVremJqZGhjVzVNYkZneWRVRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
     {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JdFdUTnBiM1k1YlZWSVZXUTNjbVI1Wm0xb01FRRAB",
       "relativePublishTimeDescription": "bir hafta önce",
@@ -24,88 +66,46 @@
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JdFdUTnBiM1k1YlZWSVZXUTNjbVI1Wm0xb01FRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Kb2FFeGlObmhmVmxrNE9HdFhaMjVwZVhFMWVrRRAB",
-      "relativePublishTimeDescription": "geçen hafta içinde",
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twRWJFVnZSRGxIWTJsRlJuQTRla2t3YWpCUFJIYxAB",
+      "relativePublishTimeDescription": "bir ay önce",
       "rating": 5,
       "text": {
-        "text": "Öncelikle Gönül rahatlığıyla sipariş verebilirsiniz, ben gölgelik fileler ve balkon fileleri olmak üzere 5 kalem ürün sipariş verdim tam ve eksiksiz şekilde geldi ürünlerin gayet kaliteli ve birinci sınıf işçilik ile ölçüler istediğim gibi nizamı bir şekilde geldi. Sipariş öncesi telefon ile arayarak fileler ile bilgi sahibi olmadığımı söylediğimde Burak bey en ince ayrıntısına kadar tedaylı bir şekilde anlattı sağolsun, burdan kendilerine Hayırlı işler bereketli kazançlar diliyorum 🙏",
+        "text": "Siparişim kısa sürede eksiksiz olarak gönderildi, ürün beklentilerimi fazlasıyla karşıladı, kaliteli ve sağlam bir ürün olup herkese tavsiye ederim.Filera fileye ilgilerinden dolayı teşekkür ederim.",
         "languageCode": "tr"
       },
       "originalText": {
-        "text": "Öncelikle Gönül rahatlığıyla sipariş verebilirsiniz, ben gölgelik fileler ve balkon fileleri olmak üzere 5 kalem ürün sipariş verdim tam ve eksiksiz şekilde geldi ürünlerin gayet kaliteli ve birinci sınıf işçilik ile ölçüler istediğim gibi nizamı bir şekilde geldi. Sipariş öncesi telefon ile arayarak fileler ile bilgi sahibi olmadığımı söylediğimde Burak bey en ince ayrıntısına kadar tedaylı bir şekilde anlattı sağolsun, burdan kendilerine Hayırlı işler bereketli kazançlar diliyorum 🙏",
+        "text": "Siparişim kısa sürede eksiksiz olarak gönderildi, ürün beklentilerimi fazlasıyla karşıladı, kaliteli ve sağlam bir ürün olup herkese tavsiye ederim.Filera fileye ilgilerinden dolayı teşekkür ederim.",
         "languageCode": "tr"
       },
       "authorAttribution": {
-        "displayName": "Salim Kaygısız",
-        "uri": "https://www.google.com/maps/contrib/101072821836743812634/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKjWMkpDUw4Pih3uVBqSmApRhFK5X4J92i3uCgpZiDEnr7HMA=s128-c0x00000000-cc-rp-mo"
+        "displayName": "Nizamettin SARIBAŞ",
+        "uri": "https://www.google.com/maps/contrib/112519874615923490471/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtfAmBCPAnavs-XQr7fMSBmLZbbWhydzKK35m42y6VjRK0bpM=s128-c0x00000000-cc-rp-mo"
       },
-      "publishTime": "2026-06-11T21:25:16.007712129Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Kb2FFeGlObmhmVmxrNE9HdFhaMjVwZVhFMWVrRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Kb2FFeGlObmhmVmxrNE9HdFhaMjVwZVhFMWVrRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+      "publishTime": "2026-05-04T18:24:41.361030412Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twRWJFVnZSRGxIWTJsRlJuQTRla2t3YWpCUFJIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twRWJFVnZSRGxIWTJsRlJuQTRla2t3YWpCUFJIYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KMGNFeDFRVUZoUVhsTFVVWnJlSE5ETjA1dldWRRAB",
-      "relativePublishTimeDescription": "geçen hafta içinde",
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwNFJXMTNTazE0ZUY4MFpYQTNZazFrV0ZveFVrRRAB",
+      "relativePublishTimeDescription": "bir ay önce",
       "rating": 5,
       "text": {
-        "text": "Ben bahçemin etrafına aldığım 180 gr file sipariş verdim mahremiyeti kapatan çok kaliteli ürün kargolama 10 numara herkese tavsiye ediyorum",
+        "text": "Ürünleri çok kaliteli. Sipariş verdik 2 gün sonra elimize ulaştı. Güvenilir bi site . Teşekkürler",
         "languageCode": "tr"
       },
       "originalText": {
-        "text": "Ben bahçemin etrafına aldığım 180 gr file sipariş verdim mahremiyeti kapatan çok kaliteli ürün kargolama 10 numara herkese tavsiye ediyorum",
+        "text": "Ürünleri çok kaliteli. Sipariş verdik 2 gün sonra elimize ulaştı. Güvenilir bi site . Teşekkürler",
         "languageCode": "tr"
       },
       "authorAttribution": {
-        "displayName": "Nakip Kucukkenan",
-        "uri": "https://www.google.com/maps/contrib/117077834858755823886/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqi1JEEq38yVhyDJQJY0TabvHNsIoXBs0fz5MGOLwPg4qi5Q=s128-c0x00000000-cc-rp-mo"
+        "displayName": "Recep Sümercan",
+        "uri": "https://www.google.com/maps/contrib/116815714966693377480/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLvU6jJ88Oi9ef9Qn9lScYaEvB2NFF4lC75vC-e4RLMaJr36Q=s128-c0x00000000-cc-rp-mo"
       },
-      "publishTime": "2026-06-11T18:01:06.345180308Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KMGNFeDFRVUZoUVhsTFVVWnJlSE5ETjA1dldWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KMGNFeDFRVUZoUVhsTFVVWnJlSE5ETjA1dldWRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KdWIyWm1URTgzZWt0Q1dFTndkSFJKZFhKVVExRRAB",
-      "relativePublishTimeDescription": "geçen hafta içinde",
-      "rating": 5,
-      "text": {
-        "text": "Filerafile gerçekten işi nin arkasında duran müşteri memnuniyeti ni öne alan  özellikle gerek wapsap tan gerekse telefon dan yardımcı olan BURAK beye ayrıca teşekkür ederim\nBenden kaynaklanan Yanlış ölçü siparişimi kargom geldiği halde yeniden gerçek ölçüde filemiz kargoyla geldi.\nFilerafile çalışanlarında kaliteli ürün ürettikleri için ayrıca teşekkür ederim\nSizler bu işi profesyonel olarak yapıyorsunuz vesselam",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "Filerafile gerçekten işi nin arkasında duran müşteri memnuniyeti ni öne alan  özellikle gerek wapsap tan gerekse telefon dan yardımcı olan BURAK beye ayrıca teşekkür ederim\nBenden kaynaklanan Yanlış ölçü siparişimi kargom geldiği halde yeniden gerçek ölçüde filemiz kargoyla geldi.\nFilerafile çalışanlarında kaliteli ürün ürettikleri için ayrıca teşekkür ederim\nSizler bu işi profesyonel olarak yapıyorsunuz vesselam",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "Mehmet ÖZEKİNCİ",
-        "uri": "https://www.google.com/maps/contrib/104852688336582689098/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWDo047B-nauyTMGQTPyP167dmASmXynJvWIt3aCZ4bNGXtMo=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-06-08T06:38:03.725282619Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KdWIyWm1URTgzZWt0Q1dFTndkSFJKZFhKVVExRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KdWIyWm1URTgzZWt0Q1dFTndkSFJKZFhKVVExRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wbFptZ3dVRFZrV2xWTmN6bFJPVVZ3WTB0RmVFRRAB",
-      "relativePublishTimeDescription": "geçen hafta içinde",
-      "rating": 5,
-      "text": {
-        "text": "Hatalı sipariş vererek iki sefer ödeme yaptım benim hatamdi,kendilerine durumu izah ettim nazik bir şekilde dinlediler ve hemen ödememi iade ettiler kendilerini havale ücreti konusunda zarara uğratma rağmen nazik bir şekilde hataların olabileceğini söyleyerek paramı iade ettiler, teşekkür ederim ilginiz ve anlayışınız için",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "Hatalı sipariş vererek iki sefer ödeme yaptım benim hatamdi,kendilerine durumu izah ettim nazik bir şekilde dinlediler ve hemen ödememi iade ettiler kendilerini havale ücreti konusunda zarara uğratma rağmen nazik bir şekilde hataların olabileceğini söyleyerek paramı iade ettiler, teşekkür ederim ilginiz ve anlayışınız için",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "İbrahim AKDUMAN",
-        "uri": "https://www.google.com/maps/contrib/109752165945691089285/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrP818enDtfRBje97UT-Pju3UbfuRfOGZ1vj6CjuvEYJWDGzow=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-06-08T05:11:47.110795440Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wbFptZ3dVRFZrV2xWTmN6bFJPVVZ3WTB0RmVFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wbFptZ3dVRFZrV2xWTmN6bFJPVVZ3WTB0RmVFRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+      "publishTime": "2026-04-29T15:56:54.668474512Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwNFJXMTNTazE0ZUY4MFpYQTNZazFrV0ZveFVrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwNFJXMTNTazE0ZUY4MFpYQTNZazFrV0ZveFVrRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     }
   ]
 }

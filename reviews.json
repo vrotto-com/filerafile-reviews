@@ -1,6 +1,6 @@
 {
   "rating": 5,
-  "userRatingCount": 36,
+  "userRatingCount": 38,
   "reviews": [
     {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KdWIyWm1URTgzZWt0Q1dFTndkSFJKZFhKVVExRRAB",
@@ -22,27 +22,6 @@
       "publishTime": "2026-06-08T06:38:03.725282619Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KdWIyWm1URTgzZWt0Q1dFTndkSFJKZFhKVVExRRAB&d=17924085&t=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KdWIyWm1URTgzZWt0Q1dFTndkSFJKZFhKVVExRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFeGVGQmFOMGd5VW5CcWVDMWxSMUkwZHpaRWFFRRAB",
-      "relativePublishTimeDescription": "3 hafta önce",
-      "rating": 5,
-      "text": {
-        "text": "On numara iş ve ürün herkeze tavsiye ederim",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "On numara iş ve ürün herkeze tavsiye ederim",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "Burhan Aday",
-        "uri": "https://www.google.com/maps/contrib/105544881431832917946/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWndeV7kmgltmh8C6LTkveeJfcS7De9a6RoVNi5CSUA0ktB-how=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-06-02T14:32:03.428288093Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFeGVGQmFOMGd5VW5CcWVDMWxSMUkwZHpaRWFFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFeGVGQmFOMGd5VW5CcWVDMWxSMUkwZHpaRWFFRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVd2NuRnNjVmxqVDJKMFJXUm5iM05IZGpVdFRYYxAB",
@@ -88,7 +67,7 @@
     },
     {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JdFdUTnBiM1k1YlZWSVZXUTNjbVI1Wm0xb01FRRAB",
-      "relativePublishTimeDescription": "3 hafta önce",
+      "relativePublishTimeDescription": "4 hafta önce",
       "rating": 5,
       "text": {
         "text": "Sipariş ettiğim balkon fileleri istediğim ebatta ve problemsiz elime ulaştı.Siparişten hemen sonra telefon ile iletişime geçtim çok açıklayıcı ve duyarlı davrandılar ürünler gercekten kaliteli bana ayırdığınız zaman ve özen için teşekkür ederim.",
@@ -106,6 +85,27 @@
       "publishTime": "2026-06-02T20:58:55.563584579Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JdFdUTnBiM1k1YlZWSVZXUTNjbVI1Wm0xb01FRRAB&d=17924085&t=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JdFdUTnBiM1k1YlZWSVZXUTNjbVI1Wm0xb01FRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
+    {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KMGNFeDFRVUZoUVhsTFVVWnJlSE5ETjA1dldWRRAB",
+      "relativePublishTimeDescription": "2 hafta önce",
+      "rating": 5,
+      "text": {
+        "text": "Ben bahçemin etrafına aldığım 180 gr file sipariş verdim mahremiyeti kapatan çok kaliteli ürün kargolama 10 numara herkese tavsiye ediyorum",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "Ben bahçemin etrafına aldığım 180 gr file sipariş verdim mahremiyeti kapatan çok kaliteli ürün kargolama 10 numara herkese tavsiye ediyorum",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "Nakip Kucukkenan",
+        "uri": "https://www.google.com/maps/contrib/117077834858755823886/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqi1JEEq38yVhyDJQJY0TabvHNsIoXBs0fz5MGOLwPg4qi5Q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-06-11T18:01:06.345180308Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KMGNFeDFRVUZoUVhsTFVVWnJlSE5ETjA1dldWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KMGNFeDFRVUZoUVhsTFVVWnJlSE5ETjA1dldWRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     }
   ]
 }

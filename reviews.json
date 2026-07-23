@@ -66,27 +66,6 @@
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25adVdFOW5WSGx6WlVremJqZGhjVzVNYkZneWRVRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KMGNFeDFRVUZoUVhsTFVVWnJlSE5ETjA1dldWRRAB",
-      "relativePublishTimeDescription": "bir ay önce",
-      "rating": 5,
-      "text": {
-        "text": "Ben bahçemin etrafına aldığım 180 gr file sipariş verdim mahremiyeti kapatan çok kaliteli ürün kargolama 10 numara herkese tavsiye ediyorum",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "Ben bahçemin etrafına aldığım 180 gr file sipariş verdim mahremiyeti kapatan çok kaliteli ürün kargolama 10 numara herkese tavsiye ediyorum",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "Nakip Kucukkenan",
-        "uri": "https://www.google.com/maps/contrib/117077834858755823886/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqi1JEEq38yVhyDJQJY0TabvHNsIoXBs0fz5MGOLwPg4qi5Q=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-06-11T18:01:06.345180308Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KMGNFeDFRVUZoUVhsTFVVWnJlSE5ETjA1dldWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KMGNFeDFRVUZoUVhsTFVVWnJlSE5ETjA1dldWRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25obVIwOWtSM2hTV0V0UWNEaGtSbEZwTjA5RmVHYxAB",
       "relativePublishTimeDescription": "bir ay önce",
       "rating": 5,
@@ -106,6 +85,27 @@
       "publishTime": "2026-06-12T13:19:47.652867744Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25obVIwOWtSM2hTV0V0UWNEaGtSbEZwTjA5RmVHYxAB&d=17924085&t=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25obVIwOWtSM2hTV0V0UWNEaGtSbEZwTjA5RmVHYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
+    {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWck5UTm9VRUZ6U1RkbVpFTnRYemxzYzB3M1EwRRAB",
+      "relativePublishTimeDescription": "3 hafta önce",
+      "rating": 5,
+      "text": {
+        "text": "İlgi ve alaka çok iyi malzemeler son derece kaliteli kesinlikle tavsiye ettiğim bir işletme biz çok memnun kaldık teşekkürler filera teşekkürler Burak bey",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "İlgi ve alaka çok iyi malzemeler son derece kaliteli kesinlikle tavsiye ettiğim bir işletme biz çok memnun kaldık teşekkürler filera teşekkürler Burak bey",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "keyif_offroad keyif_offroad",
+        "uri": "https://www.google.com/maps/contrib/112516067146844254299/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlAmCtRl_cvp39Y4R-aFh0Xtp8oYwJhAl7wnWjBpHFjUepoY4=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-06-30T09:13:02.612301341Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWck5UTm9VRUZ6U1RkbVpFTnRYemxzYzB3M1EwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWck5UTm9VRUZ6U1RkbVpFTnRYemxzYzB3M1EwRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     }
   ]
 }

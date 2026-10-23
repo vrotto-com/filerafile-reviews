@@ -45,6 +45,27 @@
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OcmNqbFhZalJUVVVSVU1VUTFWVlkwWVRkRFltYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB",
+      "relativePublishTimeDescription": "2 ay önce",
+      "rating": 5,
+      "text": {
+        "text": "Ürünleri gerçekten kaliteli güvenli ve ilgili bir firma gönül rahatlığıyla alışveriş yapabilirsiniz.",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "Ürünleri gerçekten kaliteli güvenli ve ilgili bir firma gönül rahatlığıyla alışveriş yapabilirsiniz.",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "Furkan Capur",
+        "uri": "https://www.google.com/maps/contrib/102281709811854402649/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-3W9wjGh4K1hO4w6PIU8rHQ1Zy0z2VY_EKmcYoyCCd1oIjOI=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-07-28T14:30:27.136404418Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
+    {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sWGFsQnZWVWhsVFVsM05WaENXWGh3VWt4amNrRRAB",
       "relativePublishTimeDescription": "3 ay önce",
       "rating": 5,
@@ -85,27 +106,6 @@
       "publishTime": "2026-06-25T13:54:45.362375196Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zMlFsSjRjSGxxWVUwdFZrTlJVR3RMTmtKSGRsRRAB&d=17924085&t=1&wv=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zMlFsSjRjSGxxWVUwdFZrTlJVR3RMTmtKSGRsRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwM2RVbHpWbUZ1Y2kxdVFuUm1Wak5JUW0weGJXYxAB",
-      "relativePublishTimeDescription": "2 ay önce",
-      "rating": 5,
-      "text": {
-        "text": "İlgi alaka mükemmeldi satıcı güzel bir şekilde benimle iletişime geçti her konuda bana yardımcı oldu gönderdiği ürün çok kaliteli ve istediğim gibiydi fiyat performansı da mükemmeldi tavsiye ederim teşekkürler",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "İlgi alaka mükemmeldi satıcı güzel bir şekilde benimle iletişime geçti her konuda bana yardımcı oldu gönderdiği ürün çok kaliteli ve istediğim gibiydi fiyat performansı da mükemmeldi tavsiye ederim teşekkürler",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "Alaaddin Almak",
-        "uri": "https://www.google.com/maps/contrib/113941020213592609633/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoR-Eg3BgTg6YYU_3P7JtAT7e_hjpMQuk4cp3Vgw0IxuZTnw=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-08-17T13:09:01.398232060Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwM2RVbHpWbUZ1Y2kxdVFuUm1Wak5JUW0weGJXYxAB&d=17924085&t=1&wv=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwM2RVbHpWbUZ1Y2kxdVFuUm1Wak5JUW0weGJXYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     }
   ]
 }

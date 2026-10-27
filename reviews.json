@@ -1,6 +1,6 @@
 {
   "rating": 4.9,
-  "userRatingCount": 90,
+  "userRatingCount": 94,
   "reviews": [
     {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KdWIyWm1URTgzZWt0Q1dFTndkSFJKZFhKVVExRRAB",
@@ -24,6 +24,27 @@
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KdWIyWm1URTgzZWt0Q1dFTndkSFJKZFhKVVExRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4U2NWRjRNWEZVZW5CbFEzTnpUMGh5TjNZMWFGRRAB",
+      "relativePublishTimeDescription": "bir ay önce",
+      "rating": 5,
+      "text": {
+        "text": "Beklentimizi fazlasıyla karşıladı. Gerçekten kaliteli ürün iyi işçilik ve hızlı teslimatları var👍🙏",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "Beklentimizi fazlasıyla karşıladı. Gerçekten kaliteli ürün iyi işçilik ve hızlı teslimatları var👍🙏",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "İsmail Çetinsoylu",
+        "uri": "https://www.google.com/maps/contrib/115760097490532511792/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_V2yfEdN2VvRR0CCxOf9ShgSTeVkRfrustowRVGYDb3UGSnw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-09-12T12:09:42.411368278Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4U2NWRjRNWEZVZW5CbFEzTnpUMGh5TjNZMWFGRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4U2NWRjRNWEZVZW5CbFEzTnpUMGh5TjNZMWFGRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
+    {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OcmNqbFhZalJUVVVSVU1VUTFWVlkwWVRkRFltYxAB",
       "relativePublishTimeDescription": "2 ay önce",
       "rating": 5,
@@ -45,67 +66,46 @@
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OcmNqbFhZalJUVVVSVU1VUTFWVlkwWVRkRFltYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB",
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKbWVrRnNSbTVsVjJwa1UwNHhRVzB4Y0hBNGVFRRAB",
       "relativePublishTimeDescription": "2 ay önce",
       "rating": 5,
       "text": {
-        "text": "Ürünleri gerçekten kaliteli güvenli ve ilgili bir firma gönül rahatlığıyla alışveriş yapabilirsiniz.",
+        "text": "Beş değişik ölçüde gölgelik için tente yaptırdım söz verdikleri kalitede ve istediğim şekilde geldi çok teşekkür ediyorum",
         "languageCode": "tr"
       },
       "originalText": {
-        "text": "Ürünleri gerçekten kaliteli güvenli ve ilgili bir firma gönül rahatlığıyla alışveriş yapabilirsiniz.",
+        "text": "Beş değişik ölçüde gölgelik için tente yaptırdım söz verdikleri kalitede ve istediğim şekilde geldi çok teşekkür ediyorum",
         "languageCode": "tr"
       },
       "authorAttribution": {
-        "displayName": "Furkan Capur",
-        "uri": "https://www.google.com/maps/contrib/102281709811854402649/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-3W9wjGh4K1hO4w6PIU8rHQ1Zy0z2VY_EKmcYoyCCd1oIjOI=s128-c0x00000000-cc-rp-mo"
+        "displayName": "Cemal Bilekoğlu",
+        "uri": "https://www.google.com/maps/contrib/106137592169314398490/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXBKEGjXs4C0CKOfJGqxj51pK6R8ycuStg35PUPUMsvn7pYz-d=s128-c0x00000000-cc-rp-mo-ba6"
       },
-      "publishTime": "2026-07-28T14:30:27.136404418Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB&d=17924085&t=1&wv=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+      "publishTime": "2026-08-27T11:47:35.640944482Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKbWVrRnNSbTVsVjJwa1UwNHhRVzB4Y0hBNGVFRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbWVrRnNSbTVsVjJwa1UwNHhRVzB4Y0hBNGVFRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sWGFsQnZWVWhsVFVsM05WaENXWGh3VWt4amNrRRAB",
-      "relativePublishTimeDescription": "4 ay önce",
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aYVZVZGtkSEZDZWpCRGJWUlhPSG80TkRkMlMzYxAB",
+      "relativePublishTimeDescription": "4 hafta önce",
       "rating": 5,
       "text": {
-        "text": "Herşeyden önce yaptıklari iş eline yakişan insanlar 17.5 metre file çektirdik balkonumuza önce fileyi sipariş ettik daha sonra taktiricak başka yer bulamadığımız dan rica ettik yoğun oldukları halde kırmayıp araya sıkıştırılardılar günü ve saatinde geldiler konuştuğumuz gibi. Adamların uluslararası farklı ülkelerden dev bir kadrosu var ve bize gelenler gerçekten işi hakkiyla yaptılar kedi olsun dedik onlar gerekenden fazlasını yaptılar ve yaptıkları işin arkasında durdular (pazarlık bile etmeye gerek duymadım ki piyasanın altına iş yapıyorlar) birkaç kere aradım mutlaka çözüm odaklı konuşuyorlar. Yine olsa yine size yaptirirdim Elinize emeğinize sağlık Dibine kadar helal olsun.",
+        "text": "Fiyatı uygun olarak bu siteyi bulduk çok ilgililer hemen cevap verdiler ölçüleri yazdık aynı ölçü göndermişler ürün çok sağlam çıktı çok memnun kaldık bütün pencerelere yaptık yazada balkona yapicaz fiyat uygun üstün performansss çok kaliteli",
         "languageCode": "tr"
       },
       "originalText": {
-        "text": "Herşeyden önce yaptıklari iş eline yakişan insanlar 17.5 metre file çektirdik balkonumuza önce fileyi sipariş ettik daha sonra taktiricak başka yer bulamadığımız dan rica ettik yoğun oldukları halde kırmayıp araya sıkıştırılardılar günü ve saatinde geldiler konuştuğumuz gibi. Adamların uluslararası farklı ülkelerden dev bir kadrosu var ve bize gelenler gerçekten işi hakkiyla yaptılar kedi olsun dedik onlar gerekenden fazlasını yaptılar ve yaptıkları işin arkasında durdular (pazarlık bile etmeye gerek duymadım ki piyasanın altına iş yapıyorlar) birkaç kere aradım mutlaka çözüm odaklı konuşuyorlar. Yine olsa yine size yaptirirdim Elinize emeğinize sağlık Dibine kadar helal olsun.",
+        "text": "Fiyatı uygun olarak bu siteyi bulduk çok ilgililer hemen cevap verdiler ölçüleri yazdık aynı ölçü göndermişler ürün çok sağlam çıktı çok memnun kaldık bütün pencerelere yaptık yazada balkona yapicaz fiyat uygun üstün performansss çok kaliteli",
         "languageCode": "tr"
       },
       "authorAttribution": {
-        "displayName": "Abdlkdr Dkltş",
-        "uri": "https://www.google.com/maps/contrib/109027666960193778853/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLInH4Cw9XGqCo63dvkdJY66FvVXykNYkaEflXgQS277xIOiQ=s128-c0x00000000-cc-rp-mo-ba2"
+        "displayName": "Duygu Kahraman",
+        "uri": "https://www.google.com/maps/contrib/100154545667059223912/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqwufhe1cShVAe-fgqPM85MS2MosLnXqUQ8qJima4XL6ZKDQ=s128-c0x00000000-cc-rp-mo"
       },
-      "publishTime": "2026-06-25T10:28:13.728229592Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sWGFsQnZWVWhsVFVsM05WaENXWGh3VWt4amNrRRAB&d=17924085&t=1&wv=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sWGFsQnZWVWhsVFVsM05WaENXWGh3VWt4amNrRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zMlFsSjRjSGxxWVUwdFZrTlJVR3RMTmtKSGRsRRAB",
-      "relativePublishTimeDescription": "4 ay önce",
-      "rating": 5,
-      "text": {
-        "text": "balkona kedi girip koltuklarin üstüne kıl birakmasindan bikanlar, işte çözüm,\nSatıcı firmaya teşekkürler",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "balkona kedi girip koltuklarin üstüne kıl birakmasindan bikanlar, işte çözüm,\nSatıcı firmaya teşekkürler",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "hasan amasya",
-        "uri": "https://www.google.com/maps/contrib/118379755213176163656/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLP_Nw783y9P2kAVRdV4iPhZppFpvTbJQ8iSqTl8y88w7KYIA=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-06-25T13:54:45.362375196Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zMlFsSjRjSGxxWVUwdFZrTlJVR3RMTmtKSGRsRRAB&d=17924085&t=1&wv=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zMlFsSjRjSGxxWVUwdFZrTlJVR3RMTmtKSGRsRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+      "publishTime": "2026-09-28T17:52:08.255439062Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aYVZVZGtkSEZDZWpCRGJWUlhPSG80TkRkMlMzYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aYVZVZGtkSEZDZWpCRGJWUlhPSG80TkRkMlMzYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     }
   ]
 }

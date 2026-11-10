@@ -45,6 +45,27 @@
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbWVrRnNSbTVsVjJwa1UwNHhRVzB4Y0hBNGVFRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSWU1VMUNhVnBhVjJ4Q2NXVlhRV1ZYTmtwaVpXYxAB",
+      "relativePublishTimeDescription": "bir hafta önce",
+      "rating": 5,
+      "text": {
+        "text": "Evimin balkonuna kendim yaptım. Nasıl yapacağım konusunda bana yardımcı oldular. Çok nazik bir işletme. Üründe çok sağlam.",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "Evimin balkonuna kendim yaptım. Nasıl yapacağım konusunda bana yardımcı oldular. Çok nazik bir işletme. Üründe çok sağlam.",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "ibrahim uzun",
+        "uri": "https://www.google.com/maps/contrib/103535239254000936572/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKy4j8UQbgnAr8pDOZagNUwEoqJyTIScMjfyyGk_hWQ8so2fQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-10-31T11:44:56.676650564Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSWU1VMUNhVnBhVjJ4Q2NXVlhRV1ZYTmtwaVpXYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSWU1VMUNhVnBhVjJ4Q2NXVlhRV1ZYTmtwaVpXYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
+    {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aYVZVZGtkSEZDZWpCRGJWUlhPSG80TkRkMlMzYxAB",
       "relativePublishTimeDescription": "bir ay önce",
       "rating": 5,
@@ -85,27 +106,6 @@
       "publishTime": "2026-07-28T14:30:27.136404418Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB&d=17924085&t=1&wv=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sWGFsQnZWVWhsVFVsM05WaENXWGh3VWt4amNrRRAB",
-      "relativePublishTimeDescription": "4 ay önce",
-      "rating": 5,
-      "text": {
-        "text": "Herşeyden önce yaptıklari iş eline yakişan insanlar 17.5 metre file çektirdik balkonumuza önce fileyi sipariş ettik daha sonra taktiricak başka yer bulamadığımız dan rica ettik yoğun oldukları halde kırmayıp araya sıkıştırılardılar günü ve saatinde geldiler konuştuğumuz gibi. Adamların uluslararası farklı ülkelerden dev bir kadrosu var ve bize gelenler gerçekten işi hakkiyla yaptılar kedi olsun dedik onlar gerekenden fazlasını yaptılar ve yaptıkları işin arkasında durdular (pazarlık bile etmeye gerek duymadım ki piyasanın altına iş yapıyorlar) birkaç kere aradım mutlaka çözüm odaklı konuşuyorlar. Yine olsa yine size yaptirirdim Elinize emeğinize sağlık Dibine kadar helal olsun.",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "Herşeyden önce yaptıklari iş eline yakişan insanlar 17.5 metre file çektirdik balkonumuza önce fileyi sipariş ettik daha sonra taktiricak başka yer bulamadığımız dan rica ettik yoğun oldukları halde kırmayıp araya sıkıştırılardılar günü ve saatinde geldiler konuştuğumuz gibi. Adamların uluslararası farklı ülkelerden dev bir kadrosu var ve bize gelenler gerçekten işi hakkiyla yaptılar kedi olsun dedik onlar gerekenden fazlasını yaptılar ve yaptıkları işin arkasında durdular (pazarlık bile etmeye gerek duymadım ki piyasanın altına iş yapıyorlar) birkaç kere aradım mutlaka çözüm odaklı konuşuyorlar. Yine olsa yine size yaptirirdim Elinize emeğinize sağlık Dibine kadar helal olsun.",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "Abdlkdr Dkltş",
-        "uri": "https://www.google.com/maps/contrib/109027666960193778853/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLInH4Cw9XGqCo63dvkdJY66FvVXykNYkaEflXgQS277xIOiQ=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2026-06-25T10:28:13.728229592Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sWGFsQnZWVWhsVFVsM05WaENXWGh3VWt4amNrRRAB&d=17924085&t=1&wv=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sWGFsQnZWVWhsVFVsM05WaENXWGh3VWt4amNrRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     }
   ]
 }

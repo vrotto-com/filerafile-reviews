@@ -66,6 +66,27 @@
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSWU1VMUNhVnBhVjJ4Q2NXVlhRV1ZYTmtwaVpXYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWVlZDMXVSRlppVjJ4MU5tdFJSbDlsY214UlJFRRAB",
+      "relativePublishTimeDescription": "bir hafta önce",
+      "rating": 5,
+      "text": {
+        "text": "Okul bahçemizde 34 metre uzunluk için aldık. Firma yetkilisi bizi hangi ürünü seçmemiz noktasında bizi bilgilendirdi. Okulumuz adına teşekkür ederiz.",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "Okul bahçemizde 34 metre uzunluk için aldık. Firma yetkilisi bizi hangi ürünü seçmemiz noktasında bizi bilgilendirdi. Okulumuz adına teşekkür ederiz.",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "Abdullah Özakca",
+        "uri": "https://www.google.com/maps/contrib/109356206366945902851/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2p1zAeQpr8M4pN-MAf_lOViY1KTVJLKB-YUB7erFS8Wb8XQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-10-28T18:15:11.304741861Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWVlZDMXVSRlppVjJ4MU5tdFJSbDlsY214UlJFRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWVlZDMXVSRlppVjJ4MU5tdFJSbDlsY214UlJFRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
+    {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aYVZVZGtkSEZDZWpCRGJWUlhPSG80TkRkMlMzYxAB",
       "relativePublishTimeDescription": "bir ay önce",
       "rating": 5,
@@ -85,27 +106,6 @@
       "publishTime": "2026-09-28T17:52:08.255439062Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aYVZVZGtkSEZDZWpCRGJWUlhPSG80TkRkMlMzYxAB&d=17924085&t=1&wv=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aYVZVZGtkSEZDZWpCRGJWUlhPSG80TkRkMlMzYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB",
-      "relativePublishTimeDescription": "3 ay önce",
-      "rating": 5,
-      "text": {
-        "text": "Ürünleri gerçekten kaliteli güvenli ve ilgili bir firma gönül rahatlığıyla alışveriş yapabilirsiniz.",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "Ürünleri gerçekten kaliteli güvenli ve ilgili bir firma gönül rahatlığıyla alışveriş yapabilirsiniz.",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "Furkan Capur",
-        "uri": "https://www.google.com/maps/contrib/102281709811854402649/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-3W9wjGh4K1hO4w6PIU8rHQ1Zy0z2VY_EKmcYoyCCd1oIjOI=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-07-28T14:30:27.136404418Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB&d=17924085&t=1&wv=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205UU1GOXJOM05IUkUxWVR6SnJPRFZxT1ZSQ1VVRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     }
   ]
 }

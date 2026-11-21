@@ -45,27 +45,6 @@
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbWVrRnNSbTVsVjJwa1UwNHhRVzB4Y0hBNGVFRRAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     },
     {
-      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSWU1VMUNhVnBhVjJ4Q2NXVlhRV1ZYTmtwaVpXYxAB",
-      "relativePublishTimeDescription": "2 hafta önce",
-      "rating": 5,
-      "text": {
-        "text": "Evimin balkonuna kendim yaptım. Nasıl yapacağım konusunda bana yardımcı oldular. Çok nazik bir işletme. Üründe çok sağlam.",
-        "languageCode": "tr"
-      },
-      "originalText": {
-        "text": "Evimin balkonuna kendim yaptım. Nasıl yapacağım konusunda bana yardımcı oldular. Çok nazik bir işletme. Üründe çok sağlam.",
-        "languageCode": "tr"
-      },
-      "authorAttribution": {
-        "displayName": "ibrahim uzun",
-        "uri": "https://www.google.com/maps/contrib/103535239254000936572/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKy4j8UQbgnAr8pDOZagNUwEoqJyTIScMjfyyGk_hWQ8so2fQ=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-10-31T11:44:56.676650564Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSWU1VMUNhVnBhVjJ4Q2NXVlhRV1ZYTmtwaVpXYxAB&d=17924085&t=1&wv=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSWU1VMUNhVnBhVjJ4Q2NXVlhRV1ZYTmtwaVpXYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
-    },
-    {
       "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWVlZDMXVSRlppVjJ4MU5tdFJSbDlsY214UlJFRRAB",
       "relativePublishTimeDescription": "3 hafta önce",
       "rating": 5,
@@ -106,6 +85,27 @@
       "publishTime": "2026-09-28T17:52:08.255439062Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aYVZVZGtkSEZDZWpCRGJWUlhPSG80TkRkMlMzYxAB&d=17924085&t=1&wv=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aYVZVZGtkSEZDZWpCRGJWUlhPSG80TkRkMlMzYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
+    },
+    {
+      "name": "places/ChIJkbvtEFFjwxQRvmgDeXOqCu0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psMlJHVjZjRXRDYzJOUVYxUkJNMUZPTkdaelozYxAB",
+      "relativePublishTimeDescription": "bir ay önce",
+      "rating": 5,
+      "text": {
+        "text": "İlgi ve alakasından dolayı tüm firma yetkililerine çok teşekkür ediyorum gelen ürünler anlatıldığı gibi çok kaliteli",
+        "languageCode": "tr"
+      },
+      "originalText": {
+        "text": "İlgi ve alakasından dolayı tüm firma yetkililerine çok teşekkür ediyorum gelen ürünler anlatıldığı gibi çok kaliteli",
+        "languageCode": "tr"
+      },
+      "authorAttribution": {
+        "displayName": "Mustafa Coşgun",
+        "uri": "https://www.google.com/maps/contrib/100493937419385386404/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLoa11T5_b4PE5rt2ej_UKEZckztZ3xA69wsdYNzLQuhCb5HQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-09-28T17:39:02.072871566Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psMlJHVjZjRXRDYzJOUVYxUkJNMUZPTkdaelozYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psMlJHVjZjRXRDYzJOUVYxUkJNMUZPTkdaelozYxAB!2m1!1s0x14c3635110edbb91:0xed0aaa73790368be"
     }
   ]
 }
